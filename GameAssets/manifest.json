@@ -1,5 +1,5 @@
 {
-    "BaseURL": "../GameAssets/",
+    "BaseURL": "https://vmni12.github.io/RCUBGTs/GameAssets/",
     "Games": [
         {
             "Name": "Retro Bowl",
@@ -132,4 +132,5 @@
             "Icon": "Brotato/icon.png"
         }
     ]
+
 }
