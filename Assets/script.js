@@ -1,4 +1,4 @@
-const manifestLocation = "../GameAssets/manifest.json"; // if ur developing, make it "../GameAssets/manifest.json"
+const manifestLocation = "https://vmni12.github.io/RCUBGT/GameAssets/manifest.json"; // if ur developing, make it "../GameAssets/manifest.json"
 const container = document.getElementById("Container");
 const gameoptions = document.getElementById("GameOptions");
 
@@ -112,4 +112,5 @@ async function loadGame(url) {
 
 function fullscreen() {
     container.requestFullscreen();
+
 }
